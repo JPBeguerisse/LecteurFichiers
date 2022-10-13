@@ -1,5 +1,5 @@
 package Lecteur;
 
-public abstract class FileImage {
+public abstract class FileImage extends FileType{
 
 }
