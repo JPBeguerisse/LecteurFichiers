@@ -1,5 +1,11 @@
 package Lecteur;
 
-public abstract class FileImage extends FileType{
+public class FileImage extends FileType {
+
+	@Override
+	public void readFile(String source) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
