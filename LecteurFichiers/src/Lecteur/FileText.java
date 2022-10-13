@@ -12,7 +12,6 @@ public class FileText extends FileType{
 		// TODO Auto-generated method stub
 		// Le fichier d'entrée
       File file = new File(source);    
-      // Créer l'objet File Reader
       Scanner in = null;
 		try {
 			in = new Scanner(file);
